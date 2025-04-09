@@ -49,13 +49,10 @@ java ContactManager
 ## 📁 Project Structure
 
 ```
-JavaContactManager/
-├── ContactManager.java      # Main class
-├── Contact.java             # Contact object model
-├── ContactStorage.java      # Handles serialization
-├── Validator.java           # Input validation logic
-├── README.md
-└── contacts.ser             # (Generated after first run)
+java-contact-manager/
+├── Contact.java          # Contact data model
+├── ContactManager.java   # Main application
+└── contacts.txt          # Auto-generated data file
 ```
 
 ---
